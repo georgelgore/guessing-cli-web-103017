@@ -1,5 +1,7 @@
-#!/usr/bin/env ruby
+# !/usr/bin/env ruby
 
 require_relative "../guessing_cli"
 
-run_guessing_game
+
+
+run guessing_cli
